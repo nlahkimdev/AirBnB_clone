@@ -1,0 +1,19 @@
+
+.places h1 {
+	text-align: left;
+	vertical-align: top;
+}	
+
+.place h1,
+.place article h2 {
+	font-size: 30px;
+}
+
+.places article {
+	width: 390px;
+	padding: 0 20px;
+	margin: 20px;
+	border: solid 1px #FF5A5F;
+	border-radius: 4px;
+	text-align: center;
+}
