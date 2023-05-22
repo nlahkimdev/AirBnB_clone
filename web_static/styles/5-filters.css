@@ -35,9 +35,14 @@ button:hover {
 .locations, .amenities {
 	height: 100%;
 	width: 25%;
-  /* some padding*/
-	padding-left: 5%;
+}
 
+.locations h3,
+.amenities h3,
+.locations h4,
+.amenities h4 {
+	 /* some padding*/
+	padding-left: 15%;
 }
 
 .locations h3, .amenities h3 {
