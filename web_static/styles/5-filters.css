@@ -27,10 +27,17 @@ button:hover {
 	opacity: 90%;
 }
 
+
+.locations {
+	border-right: solid 1px #DDDDDD;
+}
+
 .locations, .amenities {
 	height: 100%;
 	width: 25%;
-	border-right: solid 1px #DDDDDD;
+  /* some padding*/
+	padding-left: 30px;
+
 }
 
 .locations h3, .amenities h3 {
